@@ -7,6 +7,7 @@ WATCHLIST APP
 A single user app.
 
 app.py - user interaction file
+
 database.py - containing queries, and functions allowing to interact with the database
 
 Functionalities:
@@ -14,4 +15,4 @@ Functionalities:
 - view upcoming movies
 - view all movies on your list
 - check off a movie after watching
-- view list of all watched movies
+- view list of all watched movies.
