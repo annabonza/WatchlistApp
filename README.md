@@ -4,7 +4,7 @@ WATCHLIST APP
 
 """
 
-A single user app.
+A multiple user app.
 
 app.py - user interaction file
 
@@ -15,4 +15,6 @@ Functionalities:
 - view upcoming movies
 - view all movies on your list
 - check off a movie after watching
-- view list of all watched movies.
+- view list of all watched movies
+- add users
+- search for a movie to watch.
