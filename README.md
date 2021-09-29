@@ -18,3 +18,7 @@ Functionalities:
 - view list of all watched movies
 - add users
 - search for a movie to watch.
+
+Index branch contains an index created on release_timestamp. 
+The speed will be unnoticeable, though for this size of app.
+In case of the movies table getting large, with a lot of rows an index will speed up the search.
